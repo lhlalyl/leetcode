@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\Study\Codes\Leetcode\6_Z字形变换\Solution.h(27,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Codes\Leetcode\6_Z字形变换\Solution.h(33,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Codes\Leetcode\6_Z字形变换\Solution.h(34,35): warning C4018: “<”: 有符号/无符号不匹配
+  6_Z字形变换.vcxproj -> D:\Study\Codes\Leetcode\6_Z字形变换\Debug\6_Z字形变换.exe

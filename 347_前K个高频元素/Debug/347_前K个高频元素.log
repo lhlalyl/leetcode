@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\Study\Codes\Leetcode\347_前K个高频元素\test.cpp(11,10): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Codes\Leetcode\347_前K个高频元素\test.cpp(13,11): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Codes\Leetcode\347_前K个高频元素\test.cpp(45,20): warning C4018: “<”: 有符号/无符号不匹配
+  347_前K个高频元素.vcxproj -> D:\Study\Codes\Leetcode\347_前K个高频元素\Debug\347_前K个高频元素.exe

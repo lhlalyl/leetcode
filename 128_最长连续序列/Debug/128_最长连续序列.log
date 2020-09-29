@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\Study\Codes\Leetcode\128_最长连续序列\A.h(17,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Codes\Leetcode\128_最长连续序列\A.h(26,27): warning C4018: “<”: 有符号/无符号不匹配
+  128_最长连续序列.vcxproj -> D:\Study\Codes\Leetcode\128_最长连续序列\Debug\128_最长连续序列.exe

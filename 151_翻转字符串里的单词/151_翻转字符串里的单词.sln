@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "151_翻转字符串里的单词", "151_翻转字符串里的单词.vcxproj", "{23F98C55-C173-47A4-9106-BFA5F787F278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23F98C55-C173-47A4-9106-BFA5F787F278}.Debug|x64.ActiveCfg = Debug|x64
+		{23F98C55-C173-47A4-9106-BFA5F787F278}.Debug|x64.Build.0 = Debug|x64
+		{23F98C55-C173-47A4-9106-BFA5F787F278}.Debug|x86.ActiveCfg = Debug|Win32
+		{23F98C55-C173-47A4-9106-BFA5F787F278}.Debug|x86.Build.0 = Debug|Win32
+		{23F98C55-C173-47A4-9106-BFA5F787F278}.Release|x64.ActiveCfg = Release|x64
+		{23F98C55-C173-47A4-9106-BFA5F787F278}.Release|x64.Build.0 = Release|x64
+		{23F98C55-C173-47A4-9106-BFA5F787F278}.Release|x86.ActiveCfg = Release|Win32
+		{23F98C55-C173-47A4-9106-BFA5F787F278}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C44FE6-C462-4E9A-99E1-AF7F4DE5C382}
+	EndGlobalSection
+EndGlobal

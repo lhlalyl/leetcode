@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\Study\Codes\Leetcode\剑指Offer_表示数值的字符串\test.cpp(11,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Codes\Leetcode\剑指Offer_表示数值的字符串\test.cpp(40): warning C4715: “isNumber”: 不是所有的控件路径都返回值
+  剑指Offer_表示数值的字符串.vcxproj -> D:\Study\Codes\Leetcode\剑指Offer_表示数值的字符串\Debug\剑指Offer_表示数值的字符串.exe

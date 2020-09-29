@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\Study\Codes\Leetcode\1028_从先序遍历还原二叉树\test.h(27,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Codes\Leetcode\1028_从先序遍历还原二叉树\test.h(49,21): warning C4018: “<”: 有符号/无符号不匹配
+  1028_从先序遍历还原二叉树.vcxproj -> D:\Study\Codes\Leetcode\1028_从先序遍历还原二叉树\Debug\1028_从先序遍历还原二叉树.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "剑指_礼物的最大价值", "剑指_礼物的最大价值.vcxproj", "{936F37B7-20DF-4BE5-B528-F21C9F9D89B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936F37B7-20DF-4BE5-B528-F21C9F9D89B3}.Debug|x64.ActiveCfg = Debug|x64
+		{936F37B7-20DF-4BE5-B528-F21C9F9D89B3}.Debug|x64.Build.0 = Debug|x64
+		{936F37B7-20DF-4BE5-B528-F21C9F9D89B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{936F37B7-20DF-4BE5-B528-F21C9F9D89B3}.Debug|x86.Build.0 = Debug|Win32
+		{936F37B7-20DF-4BE5-B528-F21C9F9D89B3}.Release|x64.ActiveCfg = Release|x64
+		{936F37B7-20DF-4BE5-B528-F21C9F9D89B3}.Release|x64.Build.0 = Release|x64
+		{936F37B7-20DF-4BE5-B528-F21C9F9D89B3}.Release|x86.ActiveCfg = Release|Win32
+		{936F37B7-20DF-4BE5-B528-F21C9F9D89B3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07CE9E22-FFCD-4639-AD0F-19D867916279}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\Study\Codes\Leetcode\633_平方数之和\test.cpp(9,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Study\Codes\Leetcode\633_平方数之和\test.cpp(13,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  633_平方数之和.vcxproj -> D:\Study\Codes\Leetcode\633_平方数之和\Debug\633_平方数之和.exe

@@ -1,0 +1,2 @@
+D:\Study\Codes\Leetcode\1512_好数对的数目\Debug\1512_好数对的数目.exe
+D:\Study\Codes\Leetcode\1512_好数对的数目\Debug\1512_好数对的数目.pdb

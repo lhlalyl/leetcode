@@ -1,0 +1,6 @@
+﻿  test.cpp
+D:\Study\Codes\Leetcode\990_等式方程的可满足性\test.cpp(16,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Codes\Leetcode\990_等式方程的可满足性\test.cpp(43,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Codes\Leetcode\990_等式方程的可满足性\test.cpp(55,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Codes\Leetcode\990_等式方程的可满足性\test.cpp(57,21): warning C4018: “<”: 有符号/无符号不匹配
+  990_等式方程的可满足性.vcxproj -> D:\Study\Codes\Leetcode\990_等式方程的可满足性\Debug\990_等式方程的可满足性.exe

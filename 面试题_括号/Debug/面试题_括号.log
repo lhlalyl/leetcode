@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\Study\Codes\Leetcode\面试题_括号\test.cpp(21,20): warning C4018: “<”: 有符号/无符号不匹配
+  面试题_括号.vcxproj -> D:\Study\Codes\Leetcode\面试题_括号\Debug\面试题_括号.exe

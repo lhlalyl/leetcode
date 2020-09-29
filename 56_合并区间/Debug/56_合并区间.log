@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\Study\Codes\Leetcode\56_合并区间\test.cpp(21,20): warning C4018: “<”: 有符号/无符号不匹配
+  56_合并区间.vcxproj -> D:\Study\Codes\Leetcode\56_合并区间\Debug\56_合并区间.exe

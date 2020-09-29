@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\Study\Codes\Leetcode\785_判断二分图\Data.h(24,27): warning C4018: “<”: 有符号/无符号不匹配
+  785_判断二分图.vcxproj -> D:\Study\Codes\Leetcode\785_判断二分图\Debug\785_判断二分图.exe
